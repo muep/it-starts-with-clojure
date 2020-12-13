@@ -187,7 +187,7 @@ So should we test all the code we write?
 Probably not.
 If there is a function that sums just two numbers together without any magic,
 there might not be need to test this function.
-But a rule of thump it is better to test rather too much than too little.
+But a rule of thumb it is better to test rather too much than too little.
 While you work with Clojure more,
 you will eventually start recognizing what is worth testing and what is not.
 

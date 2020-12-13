@@ -404,7 +404,7 @@ Now you might think,
 _Why does Clojure have two similar structures for list like structures?_
 Well there is kinda significant difference in the performance of lists and vectors under different circumstances.
 Then you might ask, _"Well which one should I use?"_
-The rule of thump is:
+The rule of thumb is:
 When in doubt, use vectors.
 
 We will later explain in better detail the performance differences between the two,
